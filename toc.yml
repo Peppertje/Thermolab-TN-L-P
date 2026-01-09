@@ -61,4 +61,4 @@ project:
         - title: Faseovergangen
           children:
             - file: Content/Labs/cappucino (1).ipynb
-            - file: Content/Labs/Verdamping.ipynb
+            - file: Verdamping.ipynb
